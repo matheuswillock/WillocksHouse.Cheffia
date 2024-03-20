@@ -1,0 +1,14 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Domain\bin\Debug\net8.0\WillocksHouse.Cheffia.Domain.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Domain\bin\Debug\net8.0\WillocksHouse.Cheffia.Domain.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Domain\bin\Debug\net8.0\WillocksHouse.Cheffia.Domain.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Domain\obj\Debug\net8.0\WillocksHouse.Cheffia.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Domain\obj\Debug\net8.0\WillocksHouse.Cheffia.Domain.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Domain\obj\Debug\net8.0\WillocksHouse.Cheffia.Domain.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Domain\obj\Debug\net8.0\WillocksHouse.Cheffia.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Domain\obj\Debug\net8.0\WillocksHouse.Cheffia.Domain.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Domain\obj\Debug\net8.0\refint\WillocksHouse.Cheffia.Domain.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Domain\obj\Debug\net8.0\WillocksHouse.Cheffia.Domain.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Domain\obj\Debug\net8.0\ref\WillocksHouse.Cheffia.Domain.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Domain\bin\Debug\net8.0\WillocksHouse.Cheffia.Domain.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Domain\obj\Debug\net8.0\WillocksHouse.Cheffia.Domain.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Domain\obj\Debug\net8.0\WillocksHouse.Cheffia.Domain.genruntimeconfig.cache

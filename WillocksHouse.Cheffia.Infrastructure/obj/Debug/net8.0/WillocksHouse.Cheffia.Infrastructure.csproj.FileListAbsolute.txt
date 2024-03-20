@@ -1,0 +1,17 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Infrastructure\obj\Debug\net8.0\WillocksHouse.Cheffia.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Infrastructure\obj\Debug\net8.0\WillocksHouse.Cheffia.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Infrastructure\obj\Debug\net8.0\WillocksHouse.Cheffia.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Infrastructure\obj\Debug\net8.0\WillocksHouse.Cheffia.Infrastructure.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Infrastructure\obj\Debug\net8.0\WillocksHouse.Cheffia.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Infrastructure\bin\Debug\net8.0\WillocksHouse.Cheffia.Infrastructure.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Infrastructure\bin\Debug\net8.0\WillocksHouse.Cheffia.Infrastructure.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Infrastructure\bin\Debug\net8.0\WillocksHouse.Cheffia.Infrastructure.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Infrastructure\bin\Debug\net8.0\WillocksHouse.Cheffia.Infrastructure.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Infrastructure\bin\Debug\net8.0\WillocksHouse.Cheffia.Domain.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Infrastructure\bin\Debug\net8.0\WillocksHouse.Cheffia.Domain.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Infrastructure\obj\Debug\net8.0\Willocks.F2DE61E0.Up2Date
+C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Infrastructure\obj\Debug\net8.0\WillocksHouse.Cheffia.Infrastructure.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Infrastructure\obj\Debug\net8.0\refint\WillocksHouse.Cheffia.Infrastructure.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Infrastructure\obj\Debug\net8.0\WillocksHouse.Cheffia.Infrastructure.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Infrastructure\obj\Debug\net8.0\WillocksHouse.Cheffia.Infrastructure.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Infrastructure\obj\Debug\net8.0\ref\WillocksHouse.Cheffia.Infrastructure.dll

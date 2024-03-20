@@ -1,0 +1,6 @@
+@WillocksHouse.Cheffia.WebApi_HostAddress = http://localhost:5218
+
+GET {{WillocksHouse.Cheffia.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
