@@ -2,6 +2,11 @@
 
 public class Restaurant
 {
+    public Guid Id { get; set; } = Guid.NewGuid();
+    public Guid OwnerId { get; set; }
+    public string Name { get; set; }
+    public Guid MenuId { get; set; }
+    
     public Restaurant()
     {
     }
@@ -12,9 +17,4 @@ public class Restaurant
         Name = name;
         MenuId = menuId;
     }
-
-    public Guid Id { get; set; } = Guid.NewGuid();
-    public Guid OwnerId { get; set; }
-    public string Name { get; set; }
-    public Guid MenuId { get; set; }
 }

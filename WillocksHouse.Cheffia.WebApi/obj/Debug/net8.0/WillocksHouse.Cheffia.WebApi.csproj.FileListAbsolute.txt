@@ -111,3 +111,6 @@ C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\Willocks
 C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.WebApi\bin\Debug\net8.0\WillocksHouse.Cheffia.Application.pdb
 C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.WebApi\bin\Debug\net8.0\FluentValidation.dll
 C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.WebApi\obj\Debug\net8.0\WillocksHouse.Cheffia.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.WebApi\obj\Debug\net8.0\WillocksHouse.Cheffia.WebApi.sourcelink.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.WebApi\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.WebApi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll

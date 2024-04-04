@@ -18,6 +18,11 @@ public class OwnerRepository : IOwnerRepository
         return await _context.Owners.FindAsync(id);
     }
 
+    public async Task<IEnumerable<Owner>> GetAllOwners()
+    {
+        return await _context.Owners.ToListAsync();
+    }
+
     public async Task AddOwner(Owner owner)
     {
         _context.Owners.Add(owner);

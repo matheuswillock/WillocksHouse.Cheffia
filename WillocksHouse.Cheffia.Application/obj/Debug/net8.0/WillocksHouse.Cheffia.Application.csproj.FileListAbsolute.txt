@@ -17,3 +17,4 @@ C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\Willocks
 C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Application\obj\Debug\net8.0\WillocksHouse.Cheffia.Application.pdb
 C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Application\obj\Debug\net8.0\WillocksHouse.Cheffia.Application.genruntimeconfig.cache
 C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Application\obj\Debug\net8.0\ref\WillocksHouse.Cheffia.Application.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Application\obj\Debug\net8.0\WillocksHouse.Cheffia.Application.sourcelink.json

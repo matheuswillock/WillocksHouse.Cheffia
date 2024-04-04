@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Et+qP5Yr0GiYYl+OeOxwEqtvAE6eCiW2QjYTec8MVS7jG55R67WUTAYucpPyyu1xL/CKPZHkXRRNShOUuZrBcw==",
+  "dgSpecHash": "loGrjy7BcmECt8ZpsXkbXsj/HJ+5Zp3Z46X4E02M0ObW9ca1whIRbpjPfHevBJzrMm3NwfUIaVZuQo1/Z8IITQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.WebApi\\WillocksHouse.Cheffia.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mathe\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\mathe\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",

@@ -10,29 +10,30 @@ public class OwnerUseCase : IOwnerUseCase
 {
     private readonly ILogger<OwnerUseCase> _logger;
     private readonly IOwnerRepository _ownerRepository;
+    private readonly IOutput _output;
 
-    public OwnerUseCase(IOwnerRepository ownerRepository, ILogger<OwnerUseCase> logger)
+    public OwnerUseCase(IOwnerRepository ownerRepository, ILogger<OwnerUseCase> logger, IOutput output)
     {
         _ownerRepository = ownerRepository;
         _logger = logger;
+        _output = output;
     }
 
-    public async Task<Output> CreateOwner(OwnerInputDto ownerInput)
+    public async Task<IOutput> CreateOwner(OwnerInputDto ownerInput)
     {
-        Output output = new();
         try
         {
             Owner ownerEntity = new(ownerInput.Name, ownerInput.Email, ownerInput.Password, ownerInput.Document);
 
-            //var checkOwner = await CheckIfOwnerIsValid(ownerInput);
+            var checkOwner = await CheckIfOwnerIsValid(ownerInput);
 
-            //if (!checkOwner)
-            //{
-            //    _logger.LogError(
-            //        "OwnerUseCase::CreateOwner - An Error occurred while creating the owner - error: Owner already exists");
-            //    output.AddErrorMessage("Owner already exists");
-            //    return output;
-            //}
+            if (!checkOwner)
+            {
+                _logger.LogError(
+                    "OwnerUseCase::CreateOwner - An Error occurred while creating the owner - error: Owner already exists");
+                _output.AddErrorMessage("Owner already exists");
+                return _output;
+            }
 
             await _ownerRepository.AddOwner(ownerEntity);
 
@@ -41,39 +42,39 @@ public class OwnerUseCase : IOwnerUseCase
             if (getOwner == null)
             {
                 _logger.LogError("OwnerUseCase::CreateOwner - An Error occurred while creating the owner");
-                output.AddErrorMessage("An Error occurred while creating the owner");
-                return output;
+                _output.AddErrorMessage("An Error occurred while creating the owner");
+                return _output;
             }
 
             OnwerOutputDto ownerOutput = new(getOwner.Name, getOwner.Email, getOwner.Document);
 
-            output.AddResult(ownerOutput);
-            return output;
+            _output.AddResult(ownerOutput);
+            return _output;
         }
         catch (Exception e)
         {
             _logger.LogError($"OwnerUseCase::CreateOwner - An Error occurred while creating the owner - error: {e}",
                 e.Message);
-            output.AddErrorMessage(
+            _output.AddErrorMessage(
                 $"OwnerUseCase::CreateOwner - An Error occurred while creating the owner - error: {e.Message}");
-            return output;
+            return _output;
         }
     }
 
-    //private async Task<bool> CheckIfOwnerIsValid(OwnerInputDto ownerInput)
-    //{
-    //    try
-    //    {
-    //        var getOwner = await _ownerRepository.GetOwnerByEmail(ownerInput.Email);
+    private async Task<bool> CheckIfOwnerIsValid(OwnerInputDto ownerInput)
+    {
+        try
+        {
+            var getOwner = await _ownerRepository.GetOwnerByEmail(ownerInput.Email) == null;
 
-    //        if (getOwner != null) return false;
-
-    //        return true;
-    //    }
-    //    catch (Exception e)
-    //    {
-    //        Console.WriteLine(e);
-    //        throw;
-    //    }
-    //}
+            return getOwner;
+        }
+        catch (Exception e)
+        {
+            _logger.LogError($"OwnerUseCase::CheckIfOwnerIsValid - An Error occurred while creating the owner - error: {e}",
+                e.Message);
+            
+            return false;
+        }
+    }
 }

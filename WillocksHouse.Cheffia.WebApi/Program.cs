@@ -2,6 +2,8 @@ using Microsoft.EntityFrameworkCore;
 using WillocksHouse.Cheffia.Application.DependencyInjection.Extensions;
 using WillocksHouse.Cheffia.Infrastructure.DepencencyInjection.Extensions;
 using WillocksHouse.Cheffia.Infrastructure.PostgresSQL;
+using WillocksHouse.Cheffia.WebApi.Controllers.Validations;
+using FluentValidation.AspNetCore;
 
 namespace WillocksHouse.Cheffia.WebApi;
 
@@ -12,6 +14,8 @@ public class Program
         var builder = WebApplication.CreateBuilder(args);
 
         builder.Services.AddControllers();
+        builder.Services.AddControllers().AddFluentValidation(fv => 
+            fv.RegisterValidatorsFromAssemblyContaining<OwnerValidator>());
 
         builder.Services.AddDbContext<CheffiaDbContext>(options =>
             options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
@@ -21,7 +25,7 @@ public class Program
         builder.Services.AddSwaggerGen();
         builder.Services.AddInfrastructures();
         builder.Services.AddApplication();
-
+        
         var app = builder.Build();
 
         // Configure the HTTP request pipeline.

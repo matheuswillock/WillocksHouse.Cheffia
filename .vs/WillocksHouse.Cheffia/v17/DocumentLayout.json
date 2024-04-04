@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C64119C1-09DD-4CD6-9347-0EB14201D0D0}|WillocksHouse.Cheffia.WebApi\\WillocksHouse.Cheffia.WebApi.csproj|c:\\users\\mathe\\onedrive\\\u00E1rea de trabalho\\develop\\willockshouse.cheffia\\willockshouse.cheffia.webapi\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C64119C1-09DD-4CD6-9347-0EB14201D0D0}|WillocksHouse.Cheffia.WebApi\\WillocksHouse.Cheffia.WebApi.csproj|solutionrelative:willockshouse.cheffia.webapi\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B15BC09F-6831-4DF3-AFCC-7863D28E0235}|WillocksHouse.Cheffia.Application\\WillocksHouse.Cheffia.Application.csproj|c:\\users\\mathe\\onedrive\\\u00E1rea de trabalho\\develop\\willockshouse.cheffia\\willockshouse.cheffia.application\\ownerusecases\\ownerusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15BC09F-6831-4DF3-AFCC-7863D28E0235}|WillocksHouse.Cheffia.Application\\WillocksHouse.Cheffia.Application.csproj|solutionrelative:willockshouse.cheffia.application\\ownerusecases\\ownerusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B15BC09F-6831-4DF3-AFCC-7863D28E0235}|WillocksHouse.Cheffia.Application\\WillocksHouse.Cheffia.Application.csproj|c:\\users\\mathe\\onedrive\\\u00E1rea de trabalho\\develop\\willockshouse.cheffia\\willockshouse.cheffia.application\\library\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15BC09F-6831-4DF3-AFCC-7863D28E0235}|WillocksHouse.Cheffia.Application\\WillocksHouse.Cheffia.Application.csproj|solutionrelative:willockshouse.cheffia.application\\library\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C64119C1-09DD-4CD6-9347-0EB14201D0D0}|WillocksHouse.Cheffia.WebApi\\WillocksHouse.Cheffia.WebApi.csproj|c:\\users\\mathe\\onedrive\\\u00E1rea de trabalho\\develop\\willockshouse.cheffia\\willockshouse.cheffia.webapi\\controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C64119C1-09DD-4CD6-9347-0EB14201D0D0}|WillocksHouse.Cheffia.WebApi\\WillocksHouse.Cheffia.WebApi.csproj|solutionrelative:willockshouse.cheffia.webapi\\controllers\\ownercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B15BC09F-6831-4DF3-AFCC-7863D28E0235}|WillocksHouse.Cheffia.Application\\WillocksHouse.Cheffia.Application.csproj|c:\\users\\mathe\\onedrive\\\u00E1rea de trabalho\\develop\\willockshouse.cheffia\\willockshouse.cheffia.application\\library\\ioutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15BC09F-6831-4DF3-AFCC-7863D28E0235}|WillocksHouse.Cheffia.Application\\WillocksHouse.Cheffia.Application.csproj|solutionrelative:willockshouse.cheffia.application\\library\\ioutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C64119C1-09DD-4CD6-9347-0EB14201D0D0}|WillocksHouse.Cheffia.WebApi\\WillocksHouse.Cheffia.WebApi.csproj|c:\\users\\mathe\\onedrive\\\u00E1rea de trabalho\\develop\\willockshouse.cheffia\\willockshouse.cheffia.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C64119C1-09DD-4CD6-9347-0EB14201D0D0}|WillocksHouse.Cheffia.WebApi\\WillocksHouse.Cheffia.WebApi.csproj|solutionrelative:willockshouse.cheffia.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B15BC09F-6831-4DF3-AFCC-7863D28E0235}|WillocksHouse.Cheffia.Application\\WillocksHouse.Cheffia.Application.csproj|c:\\users\\mathe\\onedrive\\\u00E1rea de trabalho\\develop\\willockshouse.cheffia\\willockshouse.cheffia.application\\dependencyinjection\\extensions\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B15BC09F-6831-4DF3-AFCC-7863D28E0235}|WillocksHouse.Cheffia.Application\\WillocksHouse.Cheffia.Application.csproj|solutionrelative:willockshouse.cheffia.application\\dependencyinjection\\extensions\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C64119C1-09DD-4CD6-9347-0EB14201D0D0}|WillocksHouse.Cheffia.WebApi\\WillocksHouse.Cheffia.WebApi.csproj|c:\\users\\mathe\\onedrive\\\u00E1rea de trabalho\\develop\\willockshouse.cheffia\\willockshouse.cheffia.webapi\\willockshouse.cheffia.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C64119C1-09DD-4CD6-9347-0EB14201D0D0}|WillocksHouse.Cheffia.WebApi\\WillocksHouse.Cheffia.WebApi.csproj|solutionrelative:willockshouse.cheffia.webapi\\willockshouse.cheffia.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B15BC09F-6831-4DF3-AFCC-7863D28E0235}|WillocksHouse.Cheffia.Application\\WillocksHouse.Cheffia.Application.csproj|c:\\users\\mathe\\onedrive\\\u00E1rea de trabalho\\develop\\willockshouse.cheffia\\willockshouse.cheffia.application\\ownerusecases\\ownerusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B15BC09F-6831-4DF3-AFCC-7863D28E0235}|WillocksHouse.Cheffia.Application\\WillocksHouse.Cheffia.Application.csproj|solutionrelative:willockshouse.cheffia.application\\ownerusecases\\ownerusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B15BC09F-6831-4DF3-AFCC-7863D28E0235}|WillocksHouse.Cheffia.Application\\WillocksHouse.Cheffia.Application.csproj|c:\\users\\mathe\\onedrive\\\u00E1rea de trabalho\\develop\\willockshouse.cheffia\\willockshouse.cheffia.application\\ownerusecases\\iownerusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15BC09F-6831-4DF3-AFCC-7863D28E0235}|WillocksHouse.Cheffia.Application\\WillocksHouse.Cheffia.Application.csproj|solutionrelative:willockshouse.cheffia.application\\ownerusecases\\iownerusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64119C1-09DD-4CD6-9347-0EB14201D0D0}|WillocksHouse.Cheffia.WebApi\\WillocksHouse.Cheffia.WebApi.csproj|c:\\users\\mathe\\onedrive\\\u00E1rea de trabalho\\develop\\willockshouse.cheffia\\willockshouse.cheffia.webapi\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64119C1-09DD-4CD6-9347-0EB14201D0D0}|WillocksHouse.Cheffia.WebApi\\WillocksHouse.Cheffia.WebApi.csproj|solutionrelative:willockshouse.cheffia.webapi\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B15BC09F-6831-4DF3-AFCC-7863D28E0235}|WillocksHouse.Cheffia.Application\\WillocksHouse.Cheffia.Application.csproj|c:\\users\\mathe\\onedrive\\\u00E1rea de trabalho\\develop\\willockshouse.cheffia\\willockshouse.cheffia.application\\dependencyinjection\\extensions\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15BC09F-6831-4DF3-AFCC-7863D28E0235}|WillocksHouse.Cheffia.Application\\WillocksHouse.Cheffia.Application.csproj|solutionrelative:willockshouse.cheffia.application\\dependencyinjection\\extensions\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{229F04B6-27AD-4B4C-B0FA-C57D96834824}|WillocksHouse.Cheffia.Infrastructure\\WillocksHouse.Cheffia.Infrastructure.csproj|c:\\users\\mathe\\onedrive\\\u00E1rea de trabalho\\develop\\willockshouse.cheffia\\willockshouse.cheffia.infrastructure\\depencencyinjection\\extensions\\depencencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,10 +66,6 @@
       "RelativeMoniker": "D:0:0:{C64119C1-09DD-4CD6-9347-0EB14201D0D0}|WillocksHouse.Cheffia.WebApi\\WillocksHouse.Cheffia.WebApi.csproj|solutionrelative:willockshouse.cheffia.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C6BC491C-F06F-47BE-A224-C7B4E7659739}|WillocksHouse.Cheffia.Domain\\WillocksHouse.Cheffia.Domain.csproj|c:\\users\\mathe\\onedrive\\\u00E1rea de trabalho\\develop\\willockshouse.cheffia\\willockshouse.cheffia.domain\\entities\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6BC491C-F06F-47BE-A224-C7B4E7659739}|WillocksHouse.Cheffia.Domain\\WillocksHouse.Cheffia.Domain.csproj|solutionrelative:willockshouse.cheffia.domain\\entities\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -81,24 +93,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 472,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Output.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.Application\\Library\\Output.cs",
+              "RelativeDocumentMoniker": "WillocksHouse.Cheffia.Application\\Library\\Output.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.Application\\Library\\Output.cs",
+              "RelativeToolTip": "WillocksHouse.Cheffia.Application\\Library\\Output.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T23:08:46.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOutput.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.Application\\Library\\IOutput.cs",
+              "RelativeDocumentMoniker": "WillocksHouse.Cheffia.Application\\Library\\IOutput.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.Application\\Library\\IOutput.cs",
+              "RelativeToolTip": "WillocksHouse.Cheffia.Application\\Library\\IOutput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T23:07:56.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OwnerController.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.WebApi\\Controllers\\OwnerController.cs",
+              "RelativeDocumentMoniker": "WillocksHouse.Cheffia.WebApi\\Controllers\\OwnerController.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.WebApi\\Controllers\\OwnerController.cs",
+              "RelativeToolTip": "WillocksHouse.Cheffia.WebApi\\Controllers\\OwnerController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAIA2wCoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T23:05:23.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "RestaurantController.cs",
               "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.WebApi\\Controllers\\RestaurantController.cs",
               "RelativeDocumentMoniker": "WillocksHouse.Cheffia.WebApi\\Controllers\\RestaurantController.cs",
               "ToolTip": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.WebApi\\Controllers\\RestaurantController.cs",
               "RelativeToolTip": "WillocksHouse.Cheffia.WebApi\\Controllers\\RestaurantController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAoAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwB8AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T22:56:17.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.Application\\DependencyInjection\\Extensions\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "WillocksHouse.Cheffia.Application\\DependencyInjection\\Extensions\\DependencyInjection.cs",
@@ -106,51 +157,11 @@
               "RelativeToolTip": "WillocksHouse.Cheffia.Application\\DependencyInjection\\Extensions\\DependencyInjection.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T22:53:41.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T22:53:41.26Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CheffiaDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.Infrastructure\\PostgresSQL\\CheffiaDbContext.cs",
-              "RelativeDocumentMoniker": "WillocksHouse.Cheffia.Infrastructure\\PostgresSQL\\CheffiaDbContext.cs",
-              "ToolTip": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.Infrastructure\\PostgresSQL\\CheffiaDbContext.cs",
-              "RelativeToolTip": "WillocksHouse.Cheffia.Infrastructure\\PostgresSQL\\CheffiaDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T22:52:41.667Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IOwnerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.Infrastructure\\PostgresSQL\\Repositories\\Interfaces\\IOwnerRepository.cs",
-              "RelativeDocumentMoniker": "WillocksHouse.Cheffia.Infrastructure\\PostgresSQL\\Repositories\\Interfaces\\IOwnerRepository.cs",
-              "ToolTip": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.Infrastructure\\PostgresSQL\\Repositories\\Interfaces\\IOwnerRepository.cs",
-              "RelativeToolTip": "WillocksHouse.Cheffia.Infrastructure\\PostgresSQL\\Repositories\\Interfaces\\IOwnerRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T22:52:10.365Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OwnerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.Infrastructure\\PostgresSQL\\Repositories\\Implementations\\OwnerRepository.cs",
-              "RelativeDocumentMoniker": "WillocksHouse.Cheffia.Infrastructure\\PostgresSQL\\Repositories\\Implementations\\OwnerRepository.cs",
-              "ToolTip": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.Infrastructure\\PostgresSQL\\Repositories\\Implementations\\OwnerRepository.cs",
-              "RelativeToolTip": "WillocksHouse.Cheffia.Infrastructure\\PostgresSQL\\Repositories\\Implementations\\OwnerRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T22:52:03.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "DepencencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.Infrastructure\\DepencencyInjection\\Extensions\\DepencencyInjection.cs",
               "RelativeDocumentMoniker": "WillocksHouse.Cheffia.Infrastructure\\DepencencyInjection\\Extensions\\DepencencyInjection.cs",
@@ -158,12 +169,24 @@
               "RelativeToolTip": "WillocksHouse.Cheffia.Infrastructure\\DepencencyInjection\\Extensions\\DepencencyInjection.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T22:49:38.813Z",
+              "WhenOpened": "2024-03-20T22:49:38.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WillocksHouse.Cheffia.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.WebApi\\Program.cs",
+              "RelativeToolTip": "WillocksHouse.Cheffia.WebApi\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T22:10:42.092Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -175,33 +198,82 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "OwnerUseCase.cs",
               "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.Application\\OwnerUseCases\\OwnerUseCase.cs",
               "RelativeDocumentMoniker": "WillocksHouse.Cheffia.Application\\OwnerUseCases\\OwnerUseCase.cs",
               "ToolTip": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.Application\\OwnerUseCases\\OwnerUseCase.cs",
               "RelativeToolTip": "WillocksHouse.Cheffia.Application\\OwnerUseCases\\OwnerUseCase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAWwCIAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-19T00:44:01.04Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "WillocksHouse.Cheffia.WebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.WebApi\\Program.cs",
-              "RelativeToolTip": "WillocksHouse.Cheffia.WebApi\\Program.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAYwAkAAAAqAAAA",
+              "DocumentIndex": 6,
+              "Title": "IOwnerUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.Application\\OwnerUseCases\\IOwnerUseCase.cs",
+              "RelativeDocumentMoniker": "WillocksHouse.Cheffia.Application\\OwnerUseCases\\IOwnerUseCase.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.Application\\OwnerUseCases\\IOwnerUseCase.cs",
+              "RelativeToolTip": "WillocksHouse.Cheffia.Application\\OwnerUseCases\\IOwnerUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T22:10:42.092Z",
+              "WhenOpened": "2024-04-03T23:11:13.243Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
+              "Title": "WillocksHouse.Cheffia.WebApi",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.WebApi\\WillocksHouse.Cheffia.WebApi.csproj",
+              "RelativeDocumentMoniker": "WillocksHouse.Cheffia.WebApi\\WillocksHouse.Cheffia.WebApi.csproj",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.WebApi\\WillocksHouse.Cheffia.WebApi.csproj",
+              "RelativeToolTip": "WillocksHouse.Cheffia.WebApi\\WillocksHouse.Cheffia.WebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-03T23:12:43.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OwnerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.Infrastructure\\PostgresSQL\\Repositories\\Implementations\\OwnerRepository.cs",
+              "RelativeDocumentMoniker": "WillocksHouse.Cheffia.Infrastructure\\PostgresSQL\\Repositories\\Implementations\\OwnerRepository.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.Infrastructure\\PostgresSQL\\Repositories\\Implementations\\OwnerRepository.cs",
+              "RelativeToolTip": "WillocksHouse.Cheffia.Infrastructure\\PostgresSQL\\Repositories\\Implementations\\OwnerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:52:03.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IOwnerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.Infrastructure\\PostgresSQL\\Repositories\\Interfaces\\IOwnerRepository.cs",
+              "RelativeDocumentMoniker": "WillocksHouse.Cheffia.Infrastructure\\PostgresSQL\\Repositories\\Interfaces\\IOwnerRepository.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.Infrastructure\\PostgresSQL\\Repositories\\Interfaces\\IOwnerRepository.cs",
+              "RelativeToolTip": "WillocksHouse.Cheffia.Infrastructure\\PostgresSQL\\Repositories\\Interfaces\\IOwnerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:52:10.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CheffiaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.Infrastructure\\PostgresSQL\\CheffiaDbContext.cs",
+              "RelativeDocumentMoniker": "WillocksHouse.Cheffia.Infrastructure\\PostgresSQL\\CheffiaDbContext.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.Infrastructure\\PostgresSQL\\CheffiaDbContext.cs",
+              "RelativeToolTip": "WillocksHouse.Cheffia.Infrastructure\\PostgresSQL\\CheffiaDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T22:52:41.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "WillocksHouse.Cheffia.Application.csproj",
               "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.Application\\WillocksHouse.Cheffia.Application.csproj",
               "RelativeDocumentMoniker": "WillocksHouse.Cheffia.Application\\WillocksHouse.Cheffia.Application.csproj",
@@ -209,11 +281,12 @@
               "RelativeToolTip": "WillocksHouse.Cheffia.Application\\WillocksHouse.Cheffia.Application.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-19T00:48:44.367Z"
+              "WhenOpened": "2024-03-19T00:48:44.367Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.WebApi\\appsettings.json",
               "RelativeDocumentMoniker": "WillocksHouse.Cheffia.WebApi\\appsettings.json",
@@ -225,19 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\docker-compose.yml",
-              "RelativeDocumentMoniker": "docker-compose.yml",
-              "ToolTip": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\docker-compose.yml",
-              "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-03-17T22:18:54.326Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Dish.cs",
               "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.Domain\\Entities\\Dish.cs",
               "RelativeDocumentMoniker": "WillocksHouse.Cheffia.Domain\\Entities\\Dish.cs",
@@ -249,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.Domain\\Entities\\Menu.cs",
               "RelativeDocumentMoniker": "WillocksHouse.Cheffia.Domain\\Entities\\Menu.cs",
@@ -261,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Owner.cs",
               "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.Domain\\Entities\\Owner.cs",
               "RelativeDocumentMoniker": "WillocksHouse.Cheffia.Domain\\Entities\\Owner.cs",
@@ -273,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Restaurant.cs",
               "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.Domain\\Entities\\Restaurant.cs",
               "RelativeDocumentMoniker": "WillocksHouse.Cheffia.Domain\\Entities\\Restaurant.cs",
@@ -285,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.Application\\Class1.cs",
               "RelativeDocumentMoniker": "WillocksHouse.Cheffia.Application\\Class1.cs",
@@ -293,25 +354,6 @@
               "RelativeToolTip": "WillocksHouse.Cheffia.Application\\Class1.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-17T19:41:48.151Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 244,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OwnerController.cs",
-              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.WebApi\\Controllers\\OwnerController.cs",
-              "RelativeDocumentMoniker": "WillocksHouse.Cheffia.WebApi\\Controllers\\OwnerController.cs",
-              "ToolTip": "C:\\Users\\mathe\\OneDrive\\\u00C1rea de Trabalho\\Develop\\WillocksHouse.Cheffia\\WillocksHouse.Cheffia.WebApi\\Controllers\\OwnerController.cs",
-              "RelativeToolTip": "WillocksHouse.Cheffia.WebApi\\Controllers\\OwnerController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T22:56:21.678Z",
-              "EditorCaption": ""
             }
           ]
         }

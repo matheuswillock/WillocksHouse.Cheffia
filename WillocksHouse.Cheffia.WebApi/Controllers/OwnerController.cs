@@ -17,7 +17,7 @@ public class OwnerController : ControllerBase
         _ownerUseCase = ownerUseCase;
     }
 
-    [HttpPost("/create")]
+    [HttpPost]
     public async Task<IActionResult> CreateOwner([FromBody] OwnerInputDto ownerInput)
     {
         try
@@ -40,5 +40,6 @@ public class OwnerController : ControllerBase
                 error.Message);
             return StatusCode(500, "An Error occurred while creating the owner");
         }
-    }
+    }   
+    
 }

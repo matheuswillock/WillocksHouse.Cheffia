@@ -2,6 +2,12 @@
 
 public class Dish
 {
+    
+    public Guid Id { get; set; } = Guid.NewGuid();
+    public string Name { get; set; }
+    public string Description { get; set; }
+    public decimal Price { get; set; }
+    
     public Dish()
     {
     }
@@ -12,9 +18,4 @@ public class Dish
         Description = description;
         Price = price;
     }
-
-    public Guid Id { get; set; } = Guid.NewGuid();
-    public string Name { get; set; }
-    public string Description { get; set; }
-    public decimal Price { get; set; }
 }

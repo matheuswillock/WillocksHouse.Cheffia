@@ -25,4 +25,9 @@
     </ItemGroup>
 
 
+
+    <ItemGroup>
+      <Compile Remove="PostgresSQL\Repositories\Interfaces\IRestaurant.cs" />
+    </ItemGroup>
+
 </Project>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WillocksHouse.Cheffia.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50c64221501bbfdf39594c9f80aa9b9eddcf40fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("WillocksHouse.Cheffia.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WillocksHouse.Cheffia.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

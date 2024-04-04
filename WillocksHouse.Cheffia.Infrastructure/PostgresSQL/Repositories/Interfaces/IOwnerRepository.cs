@@ -5,6 +5,7 @@ namespace WillocksHouse.Cheffia.Infrastructure.PostgresSQL.Repositories.Interfac
 public interface IOwnerRepository
 {
     Task<Owner?> GetOwner(Guid id);
+    Task<IEnumerable<Owner>> GetAllOwners();
     Task AddOwner(Owner owner);
     Task UpdateOwner(Owner owner);
     Task DeleteOwner(Guid id);

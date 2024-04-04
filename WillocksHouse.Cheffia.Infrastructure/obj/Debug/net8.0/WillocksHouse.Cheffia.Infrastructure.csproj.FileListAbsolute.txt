@@ -15,3 +15,4 @@ C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\Willocks
 C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Infrastructure\obj\Debug\net8.0\WillocksHouse.Cheffia.Infrastructure.pdb
 C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Infrastructure\obj\Debug\net8.0\WillocksHouse.Cheffia.Infrastructure.genruntimeconfig.cache
 C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Infrastructure\obj\Debug\net8.0\ref\WillocksHouse.Cheffia.Infrastructure.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Develop\WillocksHouse.Cheffia\WillocksHouse.Cheffia.Infrastructure\obj\Debug\net8.0\WillocksHouse.Cheffia.Infrastructure.sourcelink.json

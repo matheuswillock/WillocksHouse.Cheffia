@@ -23,7 +23,6 @@
 
     <ItemGroup>
         <Folder Include="DishUseCases\" />
-        <Folder Include="RestaurantUseCases\" />
     </ItemGroup>
 
     <ItemGroup>
